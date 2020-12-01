@@ -4,6 +4,6 @@ Convolutional neural networks are commonly used in image recognition and natural
 
 This repository contains a notebook with the implementation of a simple CNN with the objective of demonstrating how these neural networks can be useful for image processing.
 
-Further explanation can be found in the medium article
+Further explanation can be found in the medium article: https://guipleite.medium.com/an-introduction-to-convolutional-neural-networks-for-image-upscaling-using-sub-pixel-cnns-5d9ea911c557
 
 ![alt text](./comparison.jpg)
